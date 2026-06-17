@@ -144,5 +144,7 @@ If redistribution of PitchBook data is prohibited under your institutional licen
 ## Contact
 
 **Diana Flores-Peregrina**
+
 Ph.D. in Economics
+
 [diana.floresperegrina@gmail.com](mailto:diana.floresperegrina@gmail.com)
