@@ -19,7 +19,7 @@ set maxvar  20000
 global diana=1
 
 * Diana
-if $diana==1 global userdir "C:\Users\Diana\...\Cardinal40\Tech Assignment\GitHub"
+if $diana==1 global userdir "C:\Users\Diana\...\GitHub"
 
 global raw_data 	"$userdir/raw_data"
 global dofiles 		"$userdir/code" 
