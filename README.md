@@ -9,7 +9,7 @@ This repository contains the data and code required to reproduce all exhibits pr
 ## Repository Structure
 
 ```text
-.
+
 ├── code/        # Stata do-files
 ├── raw_data/    # Original source data
 ├── data/        # Intermediate processed datasets
